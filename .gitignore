@@ -6,3 +6,4 @@ android
 build
 ios
 *.iml
+node_modules
