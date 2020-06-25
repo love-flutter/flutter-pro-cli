@@ -1,0 +1,30 @@
+{
+  "name": "flutter-pro-cli",
+  "version": "1.0.15",
+  "description": "flutter project cli",
+  "main": "flutter-pro-cli",
+  "scripts": {
+    "test": "node flutter-pro-cli"
+  },
+  "bin": {
+    "flutter-pro-cli": "./flutter-pro-cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/love-flutter/flutter-pro-cli.git"
+  },
+  "keywords": [
+    "flutter",
+    "cli",
+    "project"
+  ],
+  "author": "love-flutter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/love-flutter/flutter-pro-cli/issues"
+  },
+  "homepage": "https://github.com/love-flutter/flutter-pro-cli#readme",
+  "dependencies": {
+    "commander": "^5.1.0"
+  }
+}

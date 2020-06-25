@@ -1,0 +1,8 @@
+.idea
+.DS_Store
+.packages
+pubspec.lock
+android
+build
+ios
+*.iml
